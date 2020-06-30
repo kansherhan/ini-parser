@@ -262,5 +262,5 @@ __pycache__/
 
 # Test files
 
-JsonTestConvert/
-JsonTest.sln
+IniParserTest/
+IniParserTest.sln
